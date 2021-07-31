@@ -1,0 +1,178 @@
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\obj\Debug\Gym_Fitness.csproj.AssemblyReference.cache
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\obj\Debug\Gym_Fitness.Form2.resources
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\obj\Debug\Gym_Fitness.Properties.Resources.resources
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\obj\Debug\Gym_Fitness.csproj.GenerateResource.cache
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\obj\Debug\Gym_Fitness.csproj.CoreCompileInputs.cache
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Gym_Fitness.exe.config
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Gym_Fitness.exe
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Gym_Fitness.pdb
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\License.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\License.pdb
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\License.dll.config
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\obj\Debug\Gym_Fitness.csproj.CopyComplete
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\obj\Debug\Gym_Fitness.exe
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\obj\Debug\Gym_Fitness.pdb
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\obj\Debug\Gym_Fitness.AddMember.resources
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\obj\Debug\Gym_Fitness.Login.resources
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\obj\Debug\Gym_Fitness.MainForm.resources
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\obj\Debug\Gym_Fitness.Payment.resources
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\obj\Debug\Gym_Fitness.UpdateDelete.resources
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\obj\Debug\Gym_Fitness.ViewMember.resources
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\obj\Debug\Gym_Fitness.exe.licenses
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.Charts.WinForms.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Metehan\Desktop\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Gym_Fitness.exe.config
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Gym_Fitness.exe
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Gym_Fitness.pdb
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.Charts.WinForms.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.Dataviz.WinForms.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.Licensing.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\License.dll
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\License.pdb
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\License.dll.config
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.Charts.WinForms.xml
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.Dataviz.WinForms.xml
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\obj\Debug\Gym_Fitness.csproj.AssemblyReference.cache
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\obj\Debug\Gym_Fitness.AddMember.resources
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\obj\Debug\Gym_Fitness.Login.resources
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\obj\Debug\Gym_Fitness.Form2.resources
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\obj\Debug\Gym_Fitness.MainForm.resources
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\obj\Debug\Gym_Fitness.Payment.resources
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\obj\Debug\Gym_Fitness.Properties.Resources.resources
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\obj\Debug\Gym_Fitness.UpdateDelete.resources
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\obj\Debug\Gym_Fitness.ViewMember.resources
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\obj\Debug\Gym_Fitness.csproj.GenerateResource.cache
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\obj\Debug\Gym_Fitness.exe.licenses
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\obj\Debug\Gym_Fitness.csproj.CoreCompileInputs.cache
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\obj\Debug\Gym_Fitness.csproj.CopyComplete
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\obj\Debug\Gym_Fitness.exe
+D:\Belgelerim\Karışık\Masa Üstü\deneme\Gym_Fitness\Gym_Fitness\obj\Debug\Gym_Fitness.pdb
